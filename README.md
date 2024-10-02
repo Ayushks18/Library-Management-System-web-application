@@ -100,26 +100,4 @@ Here are the list of activities of librarian.
 ![13 issue book inventory](https://github.com/baliramyadav/Library-Management-System-web-application-built-using-ASP.NET-Csharp/assets/80908177/fe6fd733-ddf9-41dc-a16a-d2a3a625253e)
 15- View All Books:
 ![14 view all books](https://github.com/baliramyadav/Library-Management-System-web-application-built-using-ASP.NET-Csharp/assets/80908177/2238bf84-0870-4c55-a807-0c52606150bb)
-16- Issue Books:
-![15 issube book reports](https://github.com/baliramyadav/Library-Management-System-web-application-built-using-ASP.NET-Csharp/assets/80908177/ecc18db4-dfe2-48db-825d-43e8931c5a92)
 
-----------------------------------------------
-## Steps To Run Project :-
-
------------------------------------------------
-
-## [Watch complete Video tutorial](https://youtube.com/playlist?list=PLMoluEXvWXK7iAOcTw4AndY-ZwIOKlKZP&si=ICwj6AOORKAjNfQ8)
-
-### ping me on Facebook page or Instagram
-
-------------------------------------------------
-📩 Drop me a DM if you're interested in acquiring this fully functional Library Management System web app. Let's discuss how this project can fit your needs and elevate your library management experience! 🌟💬
-
-## Note:
- Due to the size or complexity of this submission, the author has submitted it as a .zip file to shorten your download time.
-
-
-
-Don't miss out on this comprehensive Library Management System - a valuable addition to your portfolio and a practical demonstration of ASP.NET C# skills. DM now for details! 🎓💡 #coderbaba #ASPNET #CSharp #FinalYearProject #LibraryManagementSystem #BCA #MCA #BTECH #PolytechnicStudents
-
-# Happy Coding.
